@@ -1,9 +1,12 @@
 # Converter-Page
 
-## This web page has 3 main coversions that would be popular to convert between
+## This web page has 3 main coversions
 
 ### Temperature
+Celsius to Fahrenheit
 
 ### Weight
+Kilograms to Pounds
 
 ### Distance
+Kilometers to Miles
